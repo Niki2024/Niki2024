@@ -1,16 +1,25 @@
-### Hi there 👋
+<h1>Hi, I'm Nikita! <br/><a href=>AWS Cloud Engineer</a>, <a href=/">Cybersecurity Professional</a>
 
-<!--
-**Niki2024/Niki2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 AWS Cloud Projects:</h2>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+
+<h2> 🤳 Connect with me:</h2>
+
+<h2>[youtube]: www.youtube.com/@Nk-Teck_</h2>
+<h2>[linkedin]:www.linkedin.com/in/koen-</h2>
+
+
+
+
+
+
+- 🔭 I’m currently working on my portofolio 
+- 🌱 I’m currently learning all about AWS Service each and everyday. Learning never stops
+- 👯 I’m looking to collaborate on Project with othe like minded individuals interested in cloud computing
+- 🤔 I’m looking for help with transitioning into AWS
+- 💬 Ask me about ...what I did last year!
+- 📫 How to reach me: via email or direct call on my cell phone
+- ⚡ Fun fact: I speak 8 luanguages
 -->
